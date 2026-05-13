@@ -57,8 +57,9 @@ My default mode is to reproduce the issue, isolate variables, check logs, test a
 
 ## 🚧 Currently Building
 
+- **[home-lab-network-blueprint](https://github.com/p0ki/home-lab-network-blueprint)** — sanitized home-lab network blueprint documenting VLANs, firewall logic, IoT segmentation, VPN access, troubleshooting notes, and secure network design lessons.
 - **[fitness-ai-agent](https://github.com/p0ki/fitness-ai-agent)** — active AI-agent project: a Telegram-based fitness assistant using Python, Docker, SQLite, OpenAI API, structured memory, reminders, logging flows, tests, and privacy/admin features.
-- **Home Lab Network Blueprint** — planned public repo documenting VLANs, firewall logic, network segmentation, VPN notes, and lessons learned.
+- **[x-bookmarks-mcp](https://github.com/p0ki/x-bookmarks-mcp)** — local-first MCP server that turns exported X/Twitter bookmarks into a searchable, enriched knowledge base for Claude Desktop and Claude Code.
 - **IoT / Home Assistant Security Lab** — planned public repo around Home Assistant, MQTT, IoT segmentation, and smart home hardening.
 - **Cybersecurity Learning Notes** — planned/active notes from TryHackMe, tools, methodology, and defensive takeaways.
 
