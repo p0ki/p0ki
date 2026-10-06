@@ -19,6 +19,11 @@ I'm currently moving toward **AI Enablement / customer-facing technical roles** 
 
 Most of my projects live at the intersection of **AI agents, automation, self-hosting, privacy, troubleshooting, and real-world workflows**.
 
+### [personal-ai-infrastructure](https://github.com/p0ki/personal-ai-infrastructure)
+A public-safe architecture map of my personal multi-agent AI system. It combines specialized agents, deterministic workflows, local and cloud LLMs, tool integrations, autonomous execution, and approval gates for higher-impact actions.
+
+**Built around:** agent orchestration · local/cloud LLMs · MCP · n8n · Obsidian · GitHub · autonomous workflows · privacy boundaries
+
 ### [x-bookmarks-mcp](https://github.com/p0ki/x-bookmarks-mcp)
 A fully local, privacy-first MCP server that turns exported X/Twitter bookmarks into a searchable knowledge base for AI assistants.
 
@@ -39,15 +44,10 @@ A self-hosted two-room music controller operated through conversational commands
 
 **Built around:** Python · Matrix/Element · n8n · Ollama · MPV · Home Assistant / HEOS · Docker
 
-### Avtoprem Platform & AI Automation *(private project)*
+### Automotive Business Platform & AI Automation *(private project)*
 A full-stack automotive dealership platform with a public multilingual website, internal ERP/admin tooling, inventory and customer workflows, and an evolving AI/automation layer for operational assistance.
 
 **Built around:** Laravel · Vue · PostgreSQL · Docker · n8n · AI-assisted development · workflow automation
-
-### Triglav UM / Hermes *(private infrastructure)*
-My always-on personal AI orchestration environment for experimenting with specialized agents, local tools, automation workflows, research, infrastructure support, and controlled access to my homelab services.
-
-**Focus:** agent orchestration · tool/MCP integrations · local/private AI · n8n workflows · human approval boundaries
 
 ---
 
@@ -130,15 +130,13 @@ Laravel · Vue · JavaScript · HTML · CSS · Tailwind CSS
 
 ## 🎯 Current Direction
 
-I'm developing toward roles such as:
+I'm most interested in roles where I can work between **product, users, and technology** — building AI systems, agents, automations, and practical internal tools while bringing my B2B, customer-facing, and operational experience into the technical side.
 
-- **AI Enablement Specialist**
-- Technical Account / Customer Success roles with a strong AI component
-- AI implementation and solutions roles
-- Technical Sales / Solutions Engineering
-- longer-term: **AI Security / Agent Security**
+The kinds of roles that fit that direction include **AI implementation / enablement, technical product or customer operations, solutions engineering, technical support, and increasingly AI-assisted development**.
 
-The part I enjoy most is sitting between **people and technology**: understanding what someone is actually trying to achieve, translating that into a technical solution, making the system work, and explaining it clearly.
+Longer term, I'm especially interested in **AI security and agent security**.
+
+The part I enjoy most is understanding what someone is actually trying to achieve, translating that into a technical solution, making the system work, and explaining it clearly.
 
 ---
 
